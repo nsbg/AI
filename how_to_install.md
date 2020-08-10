@@ -1,5 +1,5 @@
 ## 사이킷런/텐서플로우 설치  
-(Anaconda 배포판 설치 시 사이킷런이 포함이기 때문에 추가 설치 필요 X)  
+### (Anaconda 배포판 설치 시 사이킷런이 포함이기 때문에 추가 설치 필요 X)  
 ---
   
 1. python -c "import sklearn; print(sklearn.__version__)"  
@@ -18,7 +18,7 @@
   
 
 ## Jupyter notebook/Google Colab  
-(Google Colab : 구글에서 제공하는 주피터 노트북 환경)
+### (Google Colab : 구글에서 제공하는 주피터 노트북 환경)
 ---
   
 ✔ 주피터 노트북 파일 확장자 : ipynb  
