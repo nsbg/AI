@@ -1,8 +1,14 @@
-# AI-STUDY
-**✔ TO DO**       
-◽ 머신러닝 교과서 with 사이킷런, 텐서플로 **20. 09. 19 ~ 책 다시 시작**   
-◽ **⭐하루 한 단원, 이해가 안되더라도 일단 쭉 훑기⭐**   
-◽ 책 한 번 다 보기(~10/4)    
+# AI-STUDY   
+## 2021. 1. 20. Update   
     
-**📁 NIPA_믹스앤매치_아카데미**   
-◽ [NIPA 강의 정리](https://nipa.elice.io/explore)
+**Ongoing**   
+◽ boostcourse - 텐서플로우로 시작하는 딥러닝 기초(실습)   
+◽ boostcourse - CNN 프로젝트   
+   
+**Done**   
+◽ NIPA 강의 - 데이터 분석 입문   
+◽ boostcourse - 텐서플로우로 시작하는 딥러닝 기초(이론)   
+   
+**Plan**   
+◽ 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로우   
+◽ boostcourse - 머신러닝을 위한 파이썬
