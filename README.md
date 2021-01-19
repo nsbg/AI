@@ -1,5 +1,4 @@
-# AI-STUDY   
-## 2021. 1. 20. Update   
+✔ 2021. 1. 20. Update   
     
 **Ongoing**   
 ◽ boostcourse - 텐서플로우로 시작하는 딥러닝 기초(실습)   
