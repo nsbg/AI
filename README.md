@@ -1,14 +1,16 @@
 ✔ 2021. 1. 20. Update  
 ✔ 2021. 1. 31. Update : Ongoing, Plan    
 ✔ 2021. 5. 06. Update : Ongoing, Pause   
+✔ 2021. 5. 30. Update : Ongoing, Done   
     
 **Ongoing**   
-◽ Tensorflow Tutorials      
+◽ 핸즈온 머신러닝 2판 
 ◽ 모두를 위한 딥러닝 시즌 1(실습)    
    
 **Done**   
 ◽ NIPA 강의 - 데이터 분석 입문   
 ◽ boostcourse - 텐서플로우로 시작하는 딥러닝 기초(이론)   
+◽ Tensorflow Tutorials(초보자용)        
    
 **Plan**   
 ◽ 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로우   
