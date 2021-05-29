@@ -3,8 +3,8 @@
 ✔ 2021. 5. 06. Update : Ongoing, Pause   
 ✔ 2021. 5. 30. Update : Ongoing, Done   
     
-**Ongoing**   
-◽ 핸즈온 머신러닝 2판 
+**Ongoing**    
+◽ 핸즈온 머신러닝 2판     
 ◽ 모두를 위한 딥러닝 시즌 1(실습)    
    
 **Done**   
