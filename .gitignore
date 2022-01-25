@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 checkpoints/
 pytorch-tutorial/data/
+myvenv/
+*.gz
